@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/carepoint.github.io/static/js/main.d73f62d2.chunk.js",
+    "main.js.map": "/carepoint.github.io/static/js/main.d73f62d2.chunk.js.map",
+    "runtime-main.js": "/carepoint.github.io/static/js/runtime-main.98db3687.js",
+    "runtime-main.js.map": "/carepoint.github.io/static/js/runtime-main.98db3687.js.map",
+    "static/css/2.54c3f73a.chunk.css": "/carepoint.github.io/static/css/2.54c3f73a.chunk.css",
+    "static/js/2.4b5aec66.chunk.js": "/carepoint.github.io/static/js/2.4b5aec66.chunk.js",
+    "static/js/2.4b5aec66.chunk.js.map": "/carepoint.github.io/static/js/2.4b5aec66.chunk.js.map",
+    "static/js/3.2f5c71a1.chunk.js": "/carepoint.github.io/static/js/3.2f5c71a1.chunk.js",
+    "static/js/3.2f5c71a1.chunk.js.map": "/carepoint.github.io/static/js/3.2f5c71a1.chunk.js.map",
+    "index.html": "/carepoint.github.io/index.html",
+    "static/css/2.54c3f73a.chunk.css.map": "/carepoint.github.io/static/css/2.54c3f73a.chunk.css.map",
+    "static/js/2.4b5aec66.chunk.js.LICENSE.txt": "/carepoint.github.io/static/js/2.4b5aec66.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/carepoint.github.io/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98db3687.js",
+    "static/css/2.54c3f73a.chunk.css",
+    "static/js/2.4b5aec66.chunk.js",
+    "static/js/main.d73f62d2.chunk.js"
+  ]
+}
