@@ -218,7 +218,7 @@ export const OurTeamStyle = styled.section`
 
     .team-card {
       @media (max-width: ${(p) => p.theme.breakPoints.tablets}) {
-        margin-bottom: 2.1rem;
+        margin-bottom: 2rem;
       }
 
       .thumbnail-wrapper {
